@@ -11,5 +11,10 @@
 		"type": "git",
 		"url": "https://idontknow/todo.git"
 	},
-	"author":"BIROUE ISAAC"
+	"author":"BIROUE ISAAC",
+	"description": "A project that does something awesome",
+	"keywords": [ "descriptive", "related", "freecodecamp" ],
+	"license": "MIT",
+	"version": "1.2.0"
+
 }
